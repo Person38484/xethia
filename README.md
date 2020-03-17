@@ -1,2 +1,0 @@
-# xethia
-project
